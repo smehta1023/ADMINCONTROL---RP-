@@ -5,5 +5,5 @@
  * @author samipmehta
  *
  */
-module EmailApp {
+module adminSchool {
 }
