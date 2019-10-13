@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author samipmehta
+ *
+ */
+module EmailApp {
+}
